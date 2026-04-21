@@ -47,11 +47,12 @@
 
 ---
 
+
 ## 整体架构
 
-```
+
 <img width="1272" height="840" alt="image" src="https://github.com/user-attachments/assets/ca8cee50-76f0-4bc2-b15b-4bcb2e5b799f" />
-```
+
 
 ---
 
