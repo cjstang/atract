@@ -1,4 +1,4 @@
-             # Atract · 安全运营平台
+# Atract · 安全运营平台
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![Django](https://img.shields.io/badge/Django-4.2-green.svg)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-orange.svg)
@@ -6,14 +6,7 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 > 配置化驱动的企业级安全运营平台 | 需求→任务→漏洞 自动化闭环 | 9大安全领域全覆盖
 ---
-```markdown
 
-
-
-
-
-
----
 
 ## 📋 目录
 
