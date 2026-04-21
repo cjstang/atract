@@ -1,7 +1,3 @@
-是的，你复制到 README.md 时遇到了**表格格式和流程图格式**的问题。GitHub Markdown 不支持复杂的 HTML 布局和自定义样式。
-
-我来给你生成一个**纯 Markdown 格式**、可以直接复制到 GitHub README.md 的内容：
-
 ```markdown
 # Atract·安全运营平台
 
