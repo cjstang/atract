@@ -258,11 +258,19 @@ python manage.py runserver
 ## 项目结构
 
 ```
-soc01/
-├── views/
-├── models.py
-├── utils/
-└── templates/
+websoc/
+├─ .idea/              # PyCharm 配置文件
+├─ .venv/              # Python 虚拟环境（全是依赖包，不用管）
+├─ media/              # 媒体文件上传目录
+│   └─ vuln_images/    # 漏洞相关图片
+├─ soc01/              # 你的 Django 主应用（安全运营平台）
+│   ├─ management/     # 自定义 Django 命令
+│   ├─ migrations/     # 数据库迁移文件
+│   ├─ static/         # 静态资源（CSS、JS、Bootstrap）
+│   ├─ templates/      # HTML 模板
+│   ├─ utils/          # 工具函数
+│   └─ views/          # 视图逻辑
+└─ websoc/             # Django 项目配置目录
 ```
 
 ---
@@ -272,6 +280,5 @@ soc01/
 MIT License
 
 Made with ❤️ by Atract Security Team
-```
 
 ---
